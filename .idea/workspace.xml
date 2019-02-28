@@ -1,7 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8495fc79-879f-4bc3-8096-01d106c3ce88" name="Default Changelist" comment="" />
+    <list default="true" id="8495fc79-879f-4bc3-8096-01d106c3ce88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Course during class.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Course during class.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/5-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 5/5-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/5-10.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 5/5-10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/5-11.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 5/5-11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/5-12.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 5/5-12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/5-13.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 5/5-13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/5-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 5/5-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/5-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 5/5-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/5-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 5/5-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/5-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 5/5-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/5-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 5/5-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/5-7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 5/5-7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/5-8.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 5/5-8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/5-9.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 5/5-9.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/6-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 6/6-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/6-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 6/6-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/6-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 6/6-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/6-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 6/6-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/6-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 6/6-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/6-6.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 6/6-6.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/8-1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/8-2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/8-3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/8-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week 2/8-5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Week 2/Chapter 8/8-5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../labs/python_fundamentals-master/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../labs/python_fundamentals-master/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-onsite/.idea/python-onsite.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../python-onsite/.idea/python-onsite.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python-onsite/week_01/03_basics_variables/08_trip_cost.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python-onsite/week_01/03_basics_variables/08_trip_cost.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,93 +54,85 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/6-2.py">
+        <entry file="file://$PROJECT_DIR$/Week 2/Chapter 6/6-6.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 2/Chapter 6/6-10.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            <state relative-caret-position="15">
+              <caret line="1" column="194" selection-start-line="1" selection-start-column="194" selection-end-line="1" selection-end-column="194" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/6-4.py">
+        <entry file="file://$PROJECT_DIR$/Week 2/Chapter 8/8-4.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 2/Chapter 6/6-11.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
+            <state relative-caret-position="30">
+              <caret line="2" column="438" selection-start-line="2" selection-start-column="438" selection-end-line="2" selection-end-column="438" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/6-5.py">
+        <entry file="file://$PROJECT_DIR$/Week 2/Chapter 6/6-12.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+            <state relative-caret-position="15">
+              <caret line="1" column="303" selection-start-line="1" selection-start-column="303" selection-end-line="1" selection-end-column="303" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/6-6.py">
+        <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="17" selection-start-line="7" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="38" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-3.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="8" selection-start-line="8" selection-end-line="32" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/8-1.py">
+        <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/8-2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/8-3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="30" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/8-4.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+            <state relative-caret-position="579">
+              <caret line="43" column="31" lean-forward="true" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Week 2/8-5.py">
+        <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-5.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Week 2/6-3.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" selection-start-line="7" selection-end-line="12" />
+            <state relative-caret-position="315">
+              <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -109,52 +146,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2-3.py" />
-        <option value="$PROJECT_DIR$/2-5.py" />
-        <option value="$PROJECT_DIR$/2-6.py" />
-        <option value="$PROJECT_DIR$/3-1.py" />
-        <option value="$PROJECT_DIR$/3-2.py" />
-        <option value="$PROJECT_DIR$/3-3.py" />
-        <option value="$PROJECT_DIR$/3-4.py" />
-        <option value="$PROJECT_DIR$/3-5.py" />
-        <option value="$PROJECT_DIR$/3-6.py" />
-        <option value="$PROJECT_DIR$/3-7.py" />
-        <option value="$PROJECT_DIR$/3-8.py" />
-        <option value="$PROJECT_DIR$/3-9.py" />
-        <option value="$PROJECT_DIR$/3-10.py" />
-        <option value="$PROJECT_DIR$/4-1.py" />
-        <option value="$PROJECT_DIR$/4-2.py" />
-        <option value="$PROJECT_DIR$/4-3.py" />
-        <option value="$PROJECT_DIR$/4-4.py" />
-        <option value="$PROJECT_DIR$/4-5.py" />
-        <option value="$PROJECT_DIR$/4-6.py" />
-        <option value="$PROJECT_DIR$/4-7.py" />
-        <option value="$PROJECT_DIR$/4-8.py" />
-        <option value="$PROJECT_DIR$/4-9.py" />
-        <option value="$PROJECT_DIR$/4-10.py" />
-        <option value="$PROJECT_DIR$/4-11.py" />
-        <option value="$PROJECT_DIR$/4-12.py" />
-        <option value="$PROJECT_DIR$/4-13.py" />
-        <option value="$PROJECT_DIR$/Week 2/5-11.py" />
-        <option value="$PROJECT_DIR$/Week 2/5-12.py" />
-        <option value="$PROJECT_DIR$/Week 2/5-13.py" />
-        <option value="$PROJECT_DIR$/Week 2/4-13.py" />
-        <option value="$PROJECT_DIR$/Week 2/5-1.py" />
-        <option value="$PROJECT_DIR$/Week 2/5-2.py" />
-        <option value="$PROJECT_DIR$/Week 2/5-4.py" />
-        <option value="$PROJECT_DIR$/Week 2/5-3.py" />
-        <option value="$PROJECT_DIR$/Week 2/5-5.py" />
-        <option value="$PROJECT_DIR$/Week 2/5-6.py" />
-        <option value="$PROJECT_DIR$/Week 2/5-7.py" />
-        <option value="$PROJECT_DIR$/Week 2/5-8.py" />
-        <option value="$PROJECT_DIR$/Week 2/5-9.py" />
-        <option value="$PROJECT_DIR$/Week 2/5-10.py" />
-        <option value="$PROJECT_DIR$/Week 2/6-1.py" />
-        <option value="$PROJECT_DIR$/Week 2/6-2.py" />
-        <option value="$PROJECT_DIR$/Week 2/6-3.py" />
         <option value="$PROJECT_DIR$/Week 2/6-4.py" />
         <option value="$PROJECT_DIR$/Week 2/6-5.py" />
         <option value="$PROJECT_DIR$/Week 2/6-6.py" />
@@ -163,18 +160,98 @@
         <option value="$PROJECT_DIR$/Week 2/8-3.py" />
         <option value="$PROJECT_DIR$/Week 2/8-4.py" />
         <option value="$PROJECT_DIR$/Week 2/8-5.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 8/8-8.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 8/8-9.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 8/8-10.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 8/8-11.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 8/8-12.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 8/8-13.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 8/8-14.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 8/8-15.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 8/8-16.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 8/8-17.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 8/8-6.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 8/8-7.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 9/9-6.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 9/9-7.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 9/9-8.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 9/9-9.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 9/9-10.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 9/9-11.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 9/9-12.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 9/9-13.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 9/9-14.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 9/9-15.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 7/7-1.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 7/7-2.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 7/7-3.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 7/7-4.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 7/7-5.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 7/7-6.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 7/7-7.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 7/7-8.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 7/7-9.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 7/7-10.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 6/6-7.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 6/6-8.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 6/6-9.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 6/6-10.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 6/6-11.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 6/6-12.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 9/9-1.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 9/9-2.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 9/9-3.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 9/9-4.py" />
+        <option value="$PROJECT_DIR$/Week 2/Chapter 9/9-5.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1680" />
+    <option name="width" value="834" />
     <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="book_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book_exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 6" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 8" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="book_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="book_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="Week 2" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter 9" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -186,26 +263,17 @@
           <select />
         </subPane>
       </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Course during class" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Course during class" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Course during class" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Course during class" type="462c0819:PsiDirectoryNode" />
-              <item name="Week 2" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week 2/Chapter 8" />
+      <recent name="$PROJECT_DIR$/Week 2/Chapter 6" />
+      <recent name="$PROJECT_DIR$/Week 2/Chapter 5" />
       <recent name="$PROJECT_DIR$/Week 2" />
       <recent name="$PROJECT_DIR$/Week 1" />
     </key>
@@ -222,8 +290,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.8-5">
-    <configuration name="8-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.9-5">
+    <configuration name="9-1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Course during class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -231,11 +299,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2/Chapter 9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/8-1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/Chapter 9/9-1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -244,7 +312,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9-2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Course during class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -252,11 +320,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2/Chapter 9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/8-2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/Chapter 9/9-2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,7 +333,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9-3" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Course during class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -273,11 +341,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2/Chapter 9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/8-3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/Chapter 9/9-3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -286,7 +354,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8-4" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9-4" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Course during class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -294,11 +362,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2/Chapter 9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/8-4.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/Chapter 9/9-4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -307,7 +375,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8-5" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="9-5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Course during class" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,11 +383,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Week 2/Chapter 9" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/8-5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Week 2/Chapter 9/9-5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,11 +398,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.8-5" />
-        <item itemvalue="Python.8-4" />
-        <item itemvalue="Python.8-3" />
-        <item itemvalue="Python.8-2" />
-        <item itemvalue="Python.8-1" />
+        <item itemvalue="Python.9-5" />
+        <item itemvalue="Python.9-4" />
+        <item itemvalue="Python.9-3" />
+        <item itemvalue="Python.9-2" />
+        <item itemvalue="Python.9-1" />
       </list>
     </recent_temporary>
   </component>
@@ -353,21 +421,22 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19831224" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27305606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.49591836" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32959184" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.41530612" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26734695" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32959184" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.49591836" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -393,356 +462,284 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Week 1/2-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/2-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-end-line="9" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/2-6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/3-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="12" lean-forward="true" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/3-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/3-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/3-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="88" lean-forward="true" selection-start-line="6" selection-end-line="9" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/3-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="17" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/4-9">
+    <entry file="file://$PROJECT_DIR$/../labs/python_fundamentals-master/labs/03_more_datatypes/3_tuples/04_13_tuple_to_list.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/3-6.py">
+    <entry file="file://$PROJECT_DIR$/../labs/python_fundamentals-master/labs/03_more_datatypes/3_tuples/04_14_list_of_tuples.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../labs/python_fundamentals-master/labs/03_more_datatypes/3_tuples/04_15_tuple_sort.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../labs/python_fundamentals-master/labs/03_more_datatypes/4_dictionaries/04_16_first_dict.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../labs/python_fundamentals-master/labs/03_more_datatypes/4_dictionaries/04_17_occurrence.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../labs/python_fundamentals-master/labs/03_more_datatypes/4_dictionaries/04_18_common.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../labs/python_fundamentals-master/labs/03_more_datatypes/4_dictionaries/04_19_dict_tuples.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../labs/python_fundamentals-master/labs/04_conditionals_loops/03_01_divisible.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../labs/python_fundamentals-master/labs/04_conditionals_loops/03_02_month.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../labs/python_fundamentals-master/labs/04_conditionals_loops/03_04_prime.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../labs/python_fundamentals-master/labs/04_conditionals_loops/03_03_for.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../labs/python_fundamentals-master/labs/04_conditionals_loops/03_05_sum.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../labs/python_fundamentals-master/labs/04_conditionals_loops/03_06_while.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../labs/python_fundamentals-master/labs/04_conditionals_loops/03_07_search.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../labs/python_fundamentals-master/labs/04_conditionals_loops/03_09_squares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../labs/python_fundamentals-master/labs/04_conditionals_loops/03_08_table.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-onsite/week_01/00_intro/01_coding.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../python-onsite/week_01/00_intro/02_big_python.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="28" />
+        <state relative-caret-position="300">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/3-8.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        <state relative-caret-position="30">
+          <caret line="2" column="235" selection-start-line="2" selection-start-column="235" selection-end-line="2" selection-end-column="235" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/3-9.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/3-7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/3-10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/4-2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="39" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/4-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/4-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/4-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/4-6.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/4-7.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/4-8.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/4-9.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-7.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="13" />
+          <caret line="3" column="221" selection-start-line="3" selection-start-column="221" selection-end-line="3" selection-end-column="221" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/4-10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/4-1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="30" selection-start-line="8" selection-end-line="13" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/4-11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 1/4-12.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/5-11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/5-12.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-8.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
-          <caret line="1" column="139" selection-start-line="1" selection-start-column="139" selection-end-line="1" selection-end-column="139" />
+          <caret line="1" column="352" selection-start-line="1" selection-start-column="352" selection-end-line="1" selection-end-column="352" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/5-13.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="257" selection-start-line="1" selection-start-column="257" selection-end-line="1" selection-end-column="257" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="259" selection-start-line="1" selection-start-column="259" selection-end-line="1" selection-end-column="259" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="250" selection-start-line="1" selection-start-column="250" selection-end-line="1" selection-end-column="250" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="285" selection-start-line="1" selection-start-column="285" selection-end-line="1" selection-end-column="285" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-14.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/4-13.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-15.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="15">
+          <caret line="1" column="335" selection-start-line="1" selection-start-column="335" selection-end-line="1" selection-end-column="335" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/5-1.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 7/7-1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-end-line="9" />
+        <state relative-caret-position="15">
+          <caret line="1" column="175" selection-start-line="1" selection-start-column="175" selection-end-line="1" selection-end-column="175" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/5-2.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 7/7-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="15">
+          <caret line="1" column="243" selection-start-line="1" selection-start-column="243" selection-end-line="1" selection-end-column="243" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/5-3.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 7/7-3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="148" selection-start-line="3" selection-start-column="148" selection-end-line="3" selection-end-column="148" />
+        <state relative-caret-position="30">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/5-4.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 7/7-4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="46" selection-start-line="7" selection-end-line="14" />
+        <state relative-caret-position="15">
+          <caret line="1" column="217" selection-start-line="1" selection-start-column="217" selection-end-line="1" selection-end-column="217" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/5-5.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 7/7-5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        <state relative-caret-position="15">
+          <caret line="1" column="349" selection-start-line="1" selection-start-column="349" selection-end-line="1" selection-end-column="349" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/5-6.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 7/7-6.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="60">
+          <caret line="4" column="78" selection-start-line="4" selection-start-column="78" selection-end-line="4" selection-end-column="78" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/5-7.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 7/7-7.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+        <state relative-caret-position="15">
+          <caret line="1" column="133" selection-start-line="1" selection-start-column="133" selection-end-line="1" selection-end-column="133" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/5-8.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 7/7-8.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" lean-forward="true" selection-start-line="8" selection-end-line="16" />
+        <state relative-caret-position="15">
+          <caret line="1" column="429" selection-start-line="1" selection-start-column="429" selection-end-line="1" selection-end-column="429" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/5-10.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 7/7-9.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="15">
+          <caret line="1" column="402" selection-start-line="1" selection-start-column="402" selection-end-line="1" selection-end-column="402" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/5-9.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 7/7-10.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="15">
+          <caret line="1" column="234" selection-start-line="1" selection-start-column="234" selection-end-line="1" selection-end-column="234" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/6-1.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 6/6-7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="302" selection-start-line="1" selection-start-column="302" selection-end-line="1" selection-end-column="302" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 6/6-8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="300" selection-start-line="1" selection-start-column="300" selection-end-line="1" selection-end-column="300" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 6/6-9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="366" selection-start-line="1" selection-start-column="366" selection-end-line="1" selection-end-column="366" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 6/6-10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="194" selection-start-line="1" selection-start-column="194" selection-end-line="1" selection-end-column="194" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 6/6-11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="438" selection-start-line="2" selection-start-column="438" selection-end-line="2" selection-end-column="438" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 6/6-12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="303" selection-start-line="1" selection-start-column="303" selection-end-line="1" selection-end-column="303" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 6/6-6.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 8/8-4.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+          <caret line="10" column="17" selection-start-line="7" selection-end-line="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/6-2.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        <state relative-caret-position="300">
+          <caret line="20" column="38" lean-forward="true" selection-start-line="20" selection-start-column="15" selection-end-line="20" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/6-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/6-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/6-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/6-6.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="8" selection-start-line="8" selection-end-line="32" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/8-1.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        <state relative-caret-position="579">
+          <caret line="43" column="31" lean-forward="true" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/8-2.py">
+    <entry file="file://$PROJECT_DIR$/Week 2/Chapter 9/9-5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="19" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/8-3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="9" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/8-4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Week 2/8-5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="315">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
         </state>
       </provider>
     </entry>
